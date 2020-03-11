@@ -104,7 +104,7 @@ Inversor fase 1 (Máximo 5) - Pago único 20000€ + *
 · 5% del Zen en el bloque 1.
 · Prioridad de compra en la fase 2.
 · Acceso anticipado.
-· Tag de patrocinador.
+· Tag de inversor.
 * + 10000€*Nº de inversor
  - 1er 30000€. Destinados a publicidad.
  - 2do 40000€. Destinados a publicidad.
@@ -285,7 +285,7 @@ DIAGRAMA TECNOLOGICO
 
 RADGE SCREEN
 
-· Utiliza Goto como motor gráfico.
+· Utiliza Godoto como motor gráfico.
 · Técnicas Voxel modular.
 · GDscript con peticiones REST asíncronas en bloques a una API Laravel.
 
@@ -336,7 +336,7 @@ PORTAL WEB RADGE
 
 · Tecnologías muy similares al launcher. Se utiliza el framework NuxtJs. Electron ya no es usado.
 · Página principal con las novedades. Tanto de las comunidades que sigue el usuario como las últimas noticias Radge.
-· El usuario tiene perfil y puede seguir otros. Puede poner "me alegra", "lo aplaudo" o "lo podrías mejorar" a las publicaciones.
+· El usuario tiene perfil y puede seguir otros. Puede poner "me alegra", "lo aplaudo" o "lo podrías mejorar" a las publicaciones. El contador es privado, del usuario destino.
 · El correo electrónico es privado. El nombre de usuario es siempre público. Las publicaciones pueden ser públicas, privadas o borrador, un único borrador.
 · El perfil tiene ilustración a elegir o se puede subir una. La autorización de la ilustración a elegir tarda 7 días hábiles. Debe ser un SVG con vectores y degradados.
 · La foto de portada sigue la misma normativa que la imagen de perfil.
@@ -412,8 +412,9 @@ VALOR AÑADIDO
 · Cada ciclo, 255 acciones, los usuarios disponen de una copia de la base de datos, 30 minutos.
 · Radge se rige por una democracia liberal. Aportando un sistema justo, creativo y sobretodo social. Con el respeto, lo norma y el progreso por bandera azul ondulante.
 · Las herramientas son independientes del resto y se busca la máxima compatibilidad sin por ello renunciar a prácticas de usabilidad.
+· El contenido generado por Ryu es de dominio público desde el bloque 1.
 + Cubre necesidades de millones de personas perfectamente segmentadas y localizables por medios interactivos viables.
-+ los costes de interacción se pueden cubrir materialmento o participando de forma equitativa.
++ los costes de interacción se pueden cubrir materialmente o participando de forma equitativa.
 + Se inicia la actividad completamente en un idioma bastante desatendido sectorialmente. Con la posibilidad de traducción completa a otras lenguas, como Japonés.
 + Posibilidad de fidelización recurrente con ROI bueno. Cuantificable y medible. Aportaciones viables para microPYMES, PYMES y grandes empresas.
 - Multiplataforma y multigénero.
@@ -491,6 +492,9 @@ DIAGRAMA GENERAL RADGE
                                                   -------------------
                                                   | ATACAR          |
                                                   -------------------
+                                                  -------------------
+                                                  | OCULTISMO       |
+                                                  -------------------
 
 ACCION
 
@@ -528,11 +532,11 @@ HABILIDAD
     - x = Entero (Zen)
     - y = Entero (Dificultad)
     - d = Dado
-    - nd6 = n dados de 6 caras
+    - d6 = dado de 6 caras
     - c = Decimal de -1 a 1 = Fantástico - Fatal / d (Calidad)
     - F = Booleano/Null (-1 si c < -0,4 | 1 si c > 0,4 | null si c >= -0,4 y c <= 0,4) (Fallo/Fantástico/Constante)
     - 1 punto = 1d6 (1 dado de 6 caras)
-    - Tirada = Nº1 de puntos / d
+    - Tirada = Nº de puntos * d6
     - Éxitos = Resultados tirada / 6 (El valor entero)
     - Fantástico = Σ d > 3 = Número de datos mayores a 3
     - Fatal = Σ d < 3 = Número de dados menores a 3
@@ -549,7 +553,7 @@ HABILIDAD
         + No se crea ni se destruye Zen. Si el valor de la varianza es positivo el usuario recibe Zen de la IA para realizar la habilidad. Cuando es negativo al usuario le cuesta más Zen realizar la misma habilidad.
     - Tienen una dificultad Y.
     - Se realizan o no según:
-        + Y < Éxitos → Sí.
+        + Y <= Éxitos → Sí.
         + Y > Éxitos → No.
     - La calidad se aplica cuando F no es constante y está habilitada.
     - Si el ant tiene 4 o más puntos de habilidad y el contexto lo permite la tirada puede ser contante. F siempre es null.
@@ -584,6 +588,8 @@ HABILIDAD - ENTRADA
     - Poner (Equipación tipo 2). [6].
     - Usar (Equipación tipo 2). [6 Presionado].
     - Atacar (Equipación tipo 3). [1-6]
+    Habilidades extra:
+    - Ocultismo.
 
 ARCHIVOS 3D
 
