@@ -1,0 +1,5 @@
+General
+#1F211E -> Título (Dominante)
+#5E6B73 -> Cita (Subdominante)
+#9DA0A5 -> Texto (Agradable)
+#E8E4D9 -> Fondo (Desapercibido)

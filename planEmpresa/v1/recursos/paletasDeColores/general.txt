@@ -1,0 +1,5 @@
+General
+#267699 -> Título (Dominante)
+#FF877A -> Cita (Subdominante)
+#70B0CC -> Texto (Agradable)
+#D19BA3 -> Fondo (Desapercibido)

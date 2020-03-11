@@ -1,0 +1,5 @@
+Inversores
+#D93425 -> Título (Dominante)
+#BF571B -> Cita (Subdominante)
+#F2C094 -> Texto (Agradable)
+#0F2624 -> Fondo (Desapercibido)

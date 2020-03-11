@@ -1,0 +1,5 @@
+Colaboradores
+#405944 -> Título (Dominante)
+#73462C -> Cita (Subdominante)
+#BF815E -> Texto (Agradable)
+#ABBF60 -> Fondo (Desapercibido)
