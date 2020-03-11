@@ -1,0 +1,627 @@
+PLATAFORMA PARA CREAR COMUNIDADES GAMIFICADAS
+
+#1 · Entorno 3d low poly virtualizando la realidad.
+#2 · Monetización mediante criptomoneda. El Zen mueve la comunidad.
+#3 · El usuario es un ente no visible. Sus acciones pueden influir a las IA.
+#4 · Toda creación en Radge tendrá licencia libre.
+#5 + Tiendas locales con interés previo en fidelización.
+#6 + Influencers interesados en interactuar con su comunidad.
+#7 + Personas interesadas en el desarrollo de videojuegos.
+#8 - Actuales usuarios de PokemonGO, H.P.Wizard, GeoCaching y Ingress.
+#9 - Seguidores de influencers y clientes de tiendas locales.
+#10 - Actuales usuarios de Minecraft y Sims.
+#11 - Jugadores de rol. SR3.5/5, Vampiro, Lovecraft o SéptimoMar.
+#12 - Usuarios de Room Scape.
+
+PRESENTACION
+
+-------------------         -------------------
+| #1             0|         | #12           11|
+|                 |         |                 |
+|                 |         |                 |
+|       @radge... |         |       @radge... |
+-------------------   ...   -------------------
+              -------------------
+              |¿Cuantas frases12|
+              |había en la pres.|
+              |Radge?           |
+              |Pista: Nº primos |
+              -------------------
+              -------------------
+              | Deja 5€ y un  13|
+              | papel von el Nº |
+              | y tu papeleteta |
+              | los ganadores se|
+              | reparten el     |
+              | premio.         |
+              | Yo lo doblo.    |
+              -------------------
+Respuestas correctas:
+13 Solo había puntos en la diapositiva 11, la última de todas. Como empezaba por la 0 había 13.
+17 Había 15 + 2 veces que salía @radgeoficial.
+19 Había 15 + 4 de las diapositivas juego.
+El juego pretende dejar huella en ti. Eso vale mucho más que los 5€.
+
+Gracias,
+Valentí.
+
+RESUMEN DE CUENTAS
+
+Piso - 225€
+Comida - 400€
+Teléfono - 50€ + 25€
+Autónomos - 285€
+Luz, agua y gas - 100€
+Salidas - 200€
+Padel - 50€
+Otros - 200€
+Adobe - 30€
+Targeta - 50€
+Base: 1615€
++ 21% IVA (339.15€)
++ 20% IRPF (325€)
+Total: 2277,15€
+
+Mecenas (Cantidad limitada) - 15€/mes (IVA incluido)
+1er mes
+· Acceso anticipado.
+· Tag de mecenas en Radge.
+· X Zen.
+2ndo mes
+· El contenido del primer mes.
+· Acceso a material de concepto.
+· Y Zen (Se tiene en total 2*X + Y)
+3er mes
+· El contenido del primer mes.
+· Carta personalizada.
+· Z Zen (Se tiene en total 3*X + Y + Z)
+4rto mes
+· El contenido del primer mes.
+· Invitación a evento en Barcelona.
+. X + V Zen (Se tiene en total 5*X + Y + Z + V)
+
+Patrocinador (Máximo 5) - 300€/mes (IVA no incluido)
+1er mes
+· 7 horas dedicadas.
+· 1 reunión (En Manresa o Online).
+· Acceso anticipado.
+· Tag de patrocinador.
+· X Zen.
+2ndo mes
+· El contenido del primer mes.
+· Logo en comunidad.
+· Y Zen (Se tiene en total 2*X + Y)
+3er mes
+· El contenido del segundo mes.
+· Mensaje en comunidad.
+· Z Zen (Se tiene en total 5*X + 2*Y + Z)
+4rto mes
+· El contenido del tercer mes.
+· Invitación a evento en Barcelona.
+· V Zen (Se tiene en total 13*X + 5*Y + 2*Z + V)
+
+Inversor fase 1 (Máximo 5) - Pago único 20000€ + *
+· 5% del Zen en el bloque 1.
+· Prioridad de compra en la fase 2.
+· Acceso anticipado.
+· Tag de patrocinador.
+* + 10000€*Nº de inversor
+ - 1er 30000€. Destinados a publicidad.
+ - 2do 40000€. Destinados a publicidad.
+ - 3er 50000€. Destinados a publicidad.
+ - 4to 60000€. Destinados a publicidad.
+ - 5to 70000€. 20000€ destinados a publicidad, 40000€ al sueldo de un CMO y 10000 a subcontratación.
+
+LINEA DE TIEMPO - 2 meses vista
+
+[0] 9 Marzo 2020
+1. Plan de empresa v1.
+
+[1] 16 Marzo 2020
+1 Búsqueda:
+ a. Mecenas.
+ b. Patrocinadores.
+ c. Inversores.
+2 Plan empresa v2.
+3 Subida Github prototipo versión 0.0.1.
+4 Búsqueda ayudante.
+5 Búsqueda:
+ a. Preinfluencers.
+ b. Predesarrolladores.
+/0.1 Hecho
+
+[2] 23 Marzo 2020
+1 Plan empresa v3.
+2 Subida Github prototipo versión 0.1.x.
+3 Preparación ayudante ~=.
+4 Iniciar comunicaciones colaboradores.
+5 Abrir servidor de discord privado.
+/1.1 +
+/1.2 Hecho
+/1.3 Hecho
+/1.4 ~=
+/1.5 +
+
+[3] 30 Marzo 2020
+1 Plan empresa v4
+2 Subida Github prototipo versión 1.x.x
+3 Ayundante preparado.
+/1.1 +
+/1.4 Hecho
+/1.5 +
+/2.1 Hecho
+/2.2 Hecho
+/2.3 +
+/2.4 Hecho
+/2.5 Hecho
+
+[4] 6 Abril 2020
+1 Subida Github prototipo versión x.x.x
+2 Anuncio Radge
+3 Confirmación fecha fin ronda inversión.
+4 Confirmar viabilidad patrocinadores.
+/1.1 +
+/1.1.b ~=
+/1.5 +
+/2.3 Hecho
+/3.1 Hecho
+/3.2 Hecho
+/3.3 Hecho
+
+[5] 13 Abril 2020
+1 Subida Github prototipo versión x.x.x.
+2 Iniciar comunicaciones de usuarios Radge.
+3 Plan empresa v5.
+4 Anuncio Radge predesarrolladores.
+5 Anuncio Radge mecenas.
+/1.1+
+/1.1.b Hecho
+/1.1.a Hecho
+/1.5+
+/1.5.b Hecho
+/4.1 Hecho
+/4.2 Hecho
+/4.3 Hecho
+/4.4 hecho
+
+[6] 20 Abril 2020
+1 Subida Github prototipo versión x.x.x
+2 Anuncio Radge preinfluencers.
+3 Búqueda CMO.
+4 Encuestas Radge:
+ a. Comunicaciones discord.
+ b. Plataforma Radge.
+ c. Radge predesarrollador.
+ d. Radge premecenazgo.
+/1.1.c+
+/1.5.a+
+/5.1 Hecho
+/5.2 Hecho
+/5.3 Hecho
+/5.4 Hecho
+/5.5 Hecho
+
+[7] 27 Abril 2020
+1 Acciones último mes randa inversión.
+2 Subida Github prototipo versión x.x.x.
+3 Evaluación encuestas.
+4 Búsqueda:
+ a. Jugadores alpha.
+ b. Influencers.
+ c. Desarrolladores.
+/1.1.c+
+/1.5.a Hecho
+/6.1 Hecho
+/6.2 Hecho
+/6.3+
+/6.4 Hecho
+
+[8] 4 Mayo 2020
+1 Subida Github prototipo versión x.x.x.
+2 Encuestas Radge:
+ a. Según evaluación.
+ b. Radge preinfluencers.
+3 2 días vacaciones.
+/1.1.c+
+/6.3+
+/7.1 Hecho
+/7.2 Hecho
+/7.3 hecho
+/7.4+
+
+[9] 11 Mayo 2020
+A determinar en el plan empresa v2.
+
+REDES SOCIALES
+
+#Radge
+
+Facebook:
+· Comunicaciones a seguidores de comunidades.
+
+Twitter:
+· Comunicaciones a seguidores de la plataforma creativa.
+
+Instagram:
+· Comunicaciones a seguidores de Radge.
+
+- El ayudante se encargará de buscar un@ colaborador@ para cada red. Ellos serán los administradores de las redes.
+- Radge es y será de tod@s.
+
+DIAGRAMA TECNOLOGICO
+
+------------------------------------------------
+|  -------------------←------------------------|-------→-------------------
+|  | PORTAL WEB RADGE|←------------------------|---     | RRSS #Radge     |
+|  | html, js, css   |    -------------------  |  |     -------------------
+|  | es6, vue, nuxtjs|    | RADGE MOBILE    |  |  |
+|  | vuetify, json   |---→| IOS, ANDROID    |  |  |     -------------------
+|  | ajax, vuex      |    | vuenative       |  |  -----→| RRSS            |
+|  | vuerouter       |←-- | kitchen Sink App|←-|-------→-------------------
+|  -------------------  | -------------------  |
+|          ↑            ------   ↑             |
+|          |            -----|----             |
+|          ↓            |    |                 |        -------------------
+|  -------------------  | -------------------  |        | CRIPTOMONEDA    |
+|  | LAUNCHER RADGE  |  | | RADGE SCREEN    |  |        | eos             |
+|  | WINDOWS, MAC Y  |  | | WINDOWS, MAC Y  |  |        -------------------
+|  | LINUX           |---→| LINUX           |  |            ⭥
+|  | html, js, css   |  | | godot 3d, assets|  |        -------------------
+|  | es6, vue, json  |  | | forge, blender  |  |←------→| API             |
+|  | vuetify, ajax   |  | -------------------  |    ---→| laravel, php    |
+|  | vuex, electron  |  |                      | ---|--→-------------------
+|  | vuerouter       |  |                      | |  |       ⭥
+|  -------------------  |                      | |  |   -------------------
+------------------------------------------------ |  |   | BBDD            |
+                        |                        |  |   | mysql           |
+                        |                        |  |   -------------------
+                -------------------              |  |
+                | PUNTO DE        |              |  |   -------------------
+                | EXTRACCION      |              |  |   | IA              |
+                | raspberry, nfc  |←--------------  ---→| python          |
+                | samrtcard       |                     | tensor flow     |
+                -------------------                     -------------------
+
+
+RADGE SCREEN
+
+· Utiliza Goto como motor gráfico.
+· Técnicas Voxel modular.
+· GDscript con peticiones REST asíncronas en bloques a una API Laravel.
+
+     Bloque 1    Bloque 2          Bloque 6    Bloque 7
+     ---------   ---------         ---------   ------------------
+     | n     |←-→| n     |      ←-→| n     |←-→| n              |
+     | petic.|   | petic.|         | petic.|   | petic.         |
+     ---------   --------- ...     ---------   ------------------
+     |  1s           2s                6s              7s       |
+     ------------------------------------------------------------
+              Una acción de 7 bloques y 8 segundos
+
+  Los 6 primeros bloques se usan para acciones del usuario y recibir estado del contexto de forma inmediata.
+  El bloque 7 se usa para normalizar el contexto y realizar acciones 100% predichas. Dura 2 segundos.
+· En el bloque 1 se introducen X unidades de Zen con la distribución:
+    - Hasta 50% inversores (Hasta 25% fase 1, hasta 25% fase 2)
+    - Hasta 30% colaboradores, patrocinadores y mecenas.
+    - 10% Ryu. →  + porcentaje restante dividido entre 2.
+    - 10$ Noah.⭷
+· En cada bloque se generan Y unidades de Zen, es constante.
+· En el bloque Z se introducen X unidades de Zen con la misma distribución que el bloque número uno. Se termina la temporada 1. Inicia la temporada número 2. El Zen ya será constante.
+· Multijugador local de 6 usuarios por instancia. Radge Screen se puede abrir múltiples veces.
+
+LAUNCHER RADGE
+
+· Hecho con las siguiente tecnologías: HTML5, CSS3, JS, ES6, VUE, VUETIFY, NPM/NODE, JSON, ELECTRON, AJAX, VUEX, VUEROUTER, ESLINT.
+· Procedimiento con la siguiente estructura:
+
+    Vista                                                  Componente             Evento nativo
+    ---------------------------------------------------    -------------------    -------------------
+    | ·Página ------→ Template -------→ Complemento 1 |    | ·Template       |    | ·Script         |
+    |          |→ Script ←- Herencia |→ Complemento 2 |    | ·Script         |    -------------------
+    |                |→ Store ←|     |→ Complemento n |    -------------------
+    | ·Estructura  ·Enlaces                           |
+    ---------------------------------------------------
+
+    Librería               Theme - Colores dark y light
+    -------------------    -------------------------
+    | ·Plugin         |    | ·Primario    ·Warning |
+    | ·Implementación |    | ·Secundario  ·Error   |
+    -------------------    | ·Accent      ·info    |
+                           -------------------------
+· Realiza una actualización semanal de Radge Screen.
+· Permite la recompilación de Radge Screen con una versión local propia.
+· Se puede gestionar el inventario.
+
+PORTAL WEB RADGE
+
+· Tecnologías muy similares al launcher. Se utiliza el framework NuxtJs. Electron ya no es usado.
+· Página principal con las novedades. Tanto de las comunidades que sigue el usuario como las últimas noticias Radge.
+· El usuario tiene perfil y puede seguir otros. Puede poner "me alegra", "lo aplaudo" o "lo podrías mejorar" a las publicaciones.
+· El correo electrónico es privado. El nombre de usuario es siempre público. Las publicaciones pueden ser públicas, privadas o borrador, un único borrador.
+· El perfil tiene ilustración a elegir o se puede subir una. La autorización de la ilustración a elegir tarda 7 días hábiles. Debe ser un SVG con vectores y degradados.
+· La foto de portada sigue la misma normativa que la imagen de perfil.
+· Las ilustraciones deben ser open source comerciales con árbol de creación.
+· El marco de perfil y portada estará gamificado.
+· El usuario podrá tener un texto descriptivo, enlaces a otras redes sociales y una ilustración enlazada a una página propia.
+· Desde Launcher Radge, Radge Screen y Radge Mobile se podrán hacer publicaciones.
+· El usuario tendrá 4 listados en público o privado: "publicaciones", "me alegra", "lo aplaudo" y "lo podrías mejorar".
+
+RADGE MOBILE
+
+· Las principales tecnologías: VUENATIVE y KITCHENBASE.
+· Puede ver y modificar el perfil de usuario. Publicar, ver novedades, poner "me alegra", "lo aplaudo" y "lo podrías mejorar".
+· Se puede gestionar el inventario.
+· Se puede usar de gamepad.
+· Se puede hacer un checkin en los puntos de extracción habilitados.
+· Se puede habilitar como punto de extracción temporal, para un objeto. Esto aumenta en 1 la sincronización entre los dos usuarios conectados.
+
+PUNTO DE EXTRACCION
+
+· Tecnologías usadas: Raspberry PI, SmartCard y NFC.
+· Una SmartCard es un puente de transferencia. Es unidireccional y sirve para obtener objetos de los puntos de extracción.
+· RaspberryPI es un miniordenador conectado a Internet que sirve de punto de extracción. Se pueden obtener objetos de él y realizar un checkin con RadgeMobile. Esto aumenta en 1 la sincronización entre el usuario y el propietario del punto.
+· El usuario puede realizar un checkin cada 24 horas y punto de extracción diferente.
+
+IA
+
+· Las principales tecnologías: Python, TensorFlow.
+· Tipos de algorito:
+    - Condicional. Listado Si/No.
+    - Lineal. Ecuación de regresión lineal ampliable.
+    - Árbol. Listado de Si/No multidimensional convergente.
+    - Libre. Deep learning no tageado ampliable.
+· Las especies comparten propiedades que afectan a sus habilidades, estructura, algoritmo de comportamiento y interacción con el contexto.
+· El patrón de interacción con el contexto se subdivide en tres:
+    - Aprendiz. Tiene mayor fuerza la réplica del movimiento.
+    - Maestro. Busca enseñar a quien quiere ser enseñado.
+    - Guardián. Busca preservar lo que debe ser preservado.
+· Las IA también son usuarios de Radge. Se distinguen por su color.
+· En RadgeScreen pueden ser controladas voluntariamente y involuntariamente.
+
+API
+
+· Las principales tecnologías: Laravel6.x, Php7.3.
+· Se usa el patrón de diseño DDD.
+· Es una api REST mayormente.
+· El procedimiento estructural:
+
+    Domain                 Resource                     Notificación           Log
+    -------------------    -------------------------    -------------------    -------------------
+    | ·Aplicación     |    | ·Insertar    ·Listar  |    | ·Tipo           |    | ·Contexto       |
+    | ·Dominio        |    | ·Modificar  ·Eliminar |    | ·Vista          |    | ·Nivel          |
+    | ·Infrastructura |    | ·Obtener ·Personalizar|    | ·Contexto       |    | ·Reportar       |
+    -------------------    -------------------------    -------------------    -------------------
+
+    Middleware             Migración
+    -------------------    -------------------
+    | ·Contexto       |    | ·Versión        |
+    | ·Reporete       |    | ·Construir      |
+    | ·Salvación      |    | ·Destruir       |
+    | ·Extras         |    -------------------
+    -------------------
+
+· Versionado X.X.X. Mayor, menor, corrección.
+· Autenticación por token. Por dispositivo, dirección IP y ubicación.
+
+VALOR AÑADIDO
+
+· Absolutamente todo tiene licencia open source comercial.
+· Los usuario son completamente anónimos. No tienen propiedad y están protegidos por un password y un correo electrónico. El usuario es único y público. Solo se permite un correo por dominio (com, es, cat, org etc) excepto gmail, hotmail y icloud.
+· El correo electrónico es el único dato que permite vincular el usuario a una entidad física, siempre es privado.
+· Los datos privados viajan y se guardan encriptados. El par de claves dual se regenera cada acción, 8 segundos. La base de datos actualiza cada acción los mismos con la nueva encriptación.
+· Cada ciclo, 255 acciones, los usuarios disponen de una copia de la base de datos, 30 minutos.
+· Radge se rige por una democracia liberal. Aportando un sistema justo, creativo y sobretodo social. Con el respeto, lo norma y el progreso por bandera azul ondulante.
+· Las herramientas son independientes del resto y se busca la máxima compatibilidad sin por ello renunciar a prácticas de usabilidad.
++ Cubre necesidades de millones de personas perfectamente segmentadas y localizables por medios interactivos viables.
++ los costes de interacción se pueden cubrir materialmento o participando de forma equitativa.
++ Se inicia la actividad completamente en un idioma bastante desatendido sectorialmente. Con la posibilidad de traducción completa a otras lenguas, como Japonés.
++ Posibilidad de fidelización recurrente con ROI bueno. Cuantificable y medible. Aportaciones viables para microPYMES, PYMES y grandes empresas.
+- Multiplataforma y multigénero.
+- Multijugador online, local con hasta 6 personas ampliable a indefinido y individual.
+- Completamente en español.
+- Promueve el fitness y la sociabilización.
+- Puede usarse en la educación.
+
+DIAGRAMA GENERAL RADGE
+
+    -------------------    -------------------    -------------------
+    | ZEN + -         |    | ELEGIDO         |    | ARBOL DE CREADOR|
+    -------------------    -------------------    -------------------
+    -------------------    -------------------
+    | DISEÑO          |    | BLOQUES         |
+    -------------------    -------------------
+                           -------------------    -------------------
+                           | EQUIPO          |    | ATUENDO         |
+                           -------------------    -------------------
+                                                  -------------------
+                                                  | ARMA            |
+                                                  -------------------
+                                                  -------------------
+                                                  | BIEN            |
+                                                  -------------------
+    -------------------    -------------------    -------------------
+    | ANT (IA)        |    | CODNICIONAL     |    | APRENDIZ        |
+    -------------------    -------------------    -------------------
+                           -------------------    -------------------
+                           | LINEAL          |    | MAESTRO         |
+                           -------------------    -------------------
+                           -------------------    -------------------
+                           | ÁRBOL           |    | GUARDIAN        |
+                           -------------------    -------------------
+                           -------------------
+                           | LIBRE           |
+                           -------------------
+
+    -------------------    -------------------    -------------------
+    | ESPECIE         |    | PROFESION       |    | HABILIDAD       |
+    -------------------    -------------------    -------------------
+    -------------------    -------------------    -------------------
+    | ABBY            |    | RECOLECTOR      |    | MOVERSE         |
+    -------------------    -------------------    -------------------
+    -------------------    -------------------    -------------------
+    | EDDY            |    | COSNTRUCTOR     |    | SALTAR          |
+    -------------------    -------------------    -------------------
+    -------------------    -------------------    -------------------
+    | IGGY            |    | CREADOR         |    | ACCIONAR        |
+    -------------------    -------------------    -------------------
+    -------------------    -------------------    -------------------
+    | OJJY            |    | NAVEGADOR       |    | (RECOGER         |
+    -------------------    -------------------    -------------------
+    -------------------    -------------------    -------------------
+    | ULLY            |    | LUCHADOR        |    | (DESMONTAR       |
+    -------------------    -------------------    -------------------
+                           -------------------    -------------------
+                           | MEDIADOR        |    | USAR            |
+                           -------------------    -------------------
+                                                  -------------------
+                                                  | HUIR            |
+                                                  -------------------
+                                                  -------------------
+                                                  | MIRAR           |
+                                                  -------------------
+                                                  -------------------
+                                                  | VISTA           |
+                                                  -------------------
+                                                  -------------------
+                                                  | INFO            |
+                                                  -------------------
+                                                  -------------------
+                                                  | ZOOM            |
+                                                  -------------------
+                                                  -------------------
+                                                  | ATACAR          |
+                                                  -------------------
+
+ACCION
+
+· Leyenda: Huir (H), Recoger (R), Atacar (A), Petición (P)
+
+           -------------------------------------------------
+           | P1  | P2  | P3  | P4  | P5  | P6  |    P7     |
+           -------------------------------------------------
+           |  →  | →↑  |  →  | H↓  |  ↑  | H←  | H←  | H←  |
+    J1     |-----|-----|-----|-----|-----|-----|-----|-----|
+           | 1s  | 2s  | 3s  | 4s  | 5s  | 6s  | 7s  | 8s  |
+           -------------------------------------------------
+           |     |     |     |     |     |     |     |     |
+           -------------------------------------------------
+           |-------- Movimiento libre ---------|- M. Pred.-|
+    Acción |-----|-----|-----|-----|-----|-----|-----------|
+           | 1s  | 2s  | 3s  | 4s  | 5s  | 6s  | 7s  | 8s  |
+           -------------------------------------------------
+           |     |     |     |     |     |     |     |     |
+           -------------------------------------------------
+           |  →  |  R  |  ←  |  A  |  ↓  |  A  |  ←  |  ←  |
+    J2     |-----|-----|-----|-----|-----|-----|-----|-----|
+           | 1s  | 2s  | 3s  | 4s  | 5s  | 6s  | 7s  | 8s  |
+           -------------------------------------------------
+
+· 6 peticiones al servidor con movimiento libre.
+    - Envío de acción.
+    - Recepción de estado.
+· 2 peticiones al servidor de movimiento predictivo.
+    - Recepción de estado.
+
+HABILIDAD
+
+· Leyenda:
+    - x = Entero (Zen)
+    - y = Entero (Dificultad)
+    - d = Dado
+    - nd6 = n dados de 6 caras
+    - c = Decimal de -1 a 1 = Fantástico - Fatal / d (Calidad)
+    - F = Booleano/Null (-1 si c < -0,4 | 1 si c > 0,4 | null si c >= -0,4 y c <= 0,4) (Fallo/Fantástico/Constante)
+    - 1 punto = 1d6 (1 dado de 6 caras)
+    - Tirada = Nº1 de puntos / d
+    - Éxitos = Resultados tirada / 6 (El valor entero)
+    - Fantástico = Σ d > 3 = Número de datos mayores a 3
+    - Fatal = Σ d < 3 = Número de dados menores a 3
+    - Sincronización = Entero
+    - Afinidad con ant = Decimal de -1 a 1 (Sincronización / 100 | Si sincronización es +-100 el resultado es +-1)
+    - Varianza de dificultad = X * afinidad con ant = Es el desliz de Zen
+    - 1 ciclo = 255 acciones = 30 minutos
+    - 1 acción = 8 segundos (hasta 8 habilidades)
+    - 1 habilidad puede tener una duración mínima desde 1 segundo hasta horas, días, semanas o incluso meses.
+· Según el contexto el ant puede hacer una habilidad:
+    - Realizar habilidades cuesta X unidades de Zen.
+        + El coste para el usuario es X - Varianza de dificultad.
+        + La IA tiene su Zen. Si se queda sin, el usuario podrá abandonarla asumiendo un -1 en sincronización o continuar hasta un lugar seguro asumiendo el coste total.
+        + No se crea ni se destruye Zen. Si el valor de la varianza es positivo el usuario recibe Zen de la IA para realizar la habilidad. Cuando es negativo al usuario le cuesta más Zen realizar la misma habilidad.
+    - Tienen una dificultad Y.
+    - Se realizan o no según:
+        + Y < Éxitos → Sí.
+        + Y > Éxitos → No.
+    - La calidad se aplica cuando F no es constante y está habilitada.
+    - Si el ant tiene 4 o más puntos de habilidad y el contexto lo permite la tirada puede ser contante. F siempre es null.
+    - La tirada puede ser automática. El coste en Zen se mide por ciclos X * (varianza de dificultad) / ciclo. Solo se gasta energia mientras se usa la habilidad. F puede aplicarse de forma semiautomática o de forma constante situacionalmente.
+· Los ant reproducen comportamientos de especies conocidas pero ellos son un conjunto de especies en si mismo. Y evolucionan.
+
+HABILIDAD - ENTRADA
+
+· Hay 3 dispositivos con hasta 3 combinaciones para la interacción con Radge Screen.
+· Dispositivos: teclado, ratón y gamepad (T, R, G) (Dualshock GD, Xbox GX, Nintendo GN)
+· Combinaciones: teclado, teclado y ratón, gamepad.
+· Interacción de entradas:
+    - Moverse adelante. T-W, G-Joystick izquierdo arriba.
+    - Moverse atrás. T-S, G-Joystick izquierdo abajo.
+    - Moverse izquierda. T-A, G-Joystick izquierdo izquierda.
+    - Moverse derecha. T-D, G-Joystick izquierdo derecha.
+    - Mirar arriba. T-↑, G-Joystick derecho arriba, R-Click derecho abajo.
+    - Mirar abajo. T-↓, G-Joystick derecho abajo, R-Click derecho arriba.
+    - Mirar izquierda. T-←, G-Joystick derecho izquierda, R-Click derecho izquierda.
+    - Mirar derecha. T-→, G-Joystick derecho derecha, R-Click derecho derecha.
+    - Vista. T-Q, G-L,L1, R-Click central.
+    - Accionar. T-E, GD-O, GX-B, GN-A, R-Click derecho.
+    - Huir. T-Retroceso, GD-△, GX-Y, GN-B Presionado.
+    - "Fullscreen". T-F11 (Exclusivo Windows, Linux y Mac)
+    - Info. T-Tab, GD-□, GX-X, GN-A Presionado.
+    - Zoom +. T-R, G-L,R1 Presionado Joystic derecho arriba
+    - Zoom -. T-R, G-L,R1 Presionado Joystic derecho abajo
+    Las siguentes interacciones solo cambia la equipación. T 1-6, G-R,R2 Presionado + (GD-X,GX-A,GN-B = 5 | GD-O,GX-B,GN-A = 6 | G-← = 1 | G-↑ = 2 | G-→ = 3 | G-↓ = 4)
+    - Montar (Equipación tipo 0). [1-4].
+    - Desmontar (Equipación tipo 1). [1-4].
+    - Recoger (Equipación tipo 2). [5].
+    - Poner (Equipación tipo 2). [6].
+    - Usar (Equipación tipo 2). [6 Presionado].
+    - Atacar (Equipación tipo 3). [1-6]
+
+ARCHIVOS 3D
+
+· Se aceptan ficheros con el formato DAE para el diseño final. Godot tiene un plugin para Blender con el que se puede convertir ficheros OBJ y FBX entre otros.
+· Se proporciona una extensa librería de bloques organizados y estendarizados para construir.
+· Se recomiendo el uso de Assets Forge. Programa con licencia perpétua de 19.95 dolares. Blender como alternativa.
+· Se proporciona material de formación, 100% español.
+· Todo el material es open source comercial.
+· Los ficheros DAE deben contener material y texturas.
+· Todo el material tendrá árbol de creación.
+· La división de localización y tamaño entre 0.1 debe resultar en entero. Tanto bloques como diseños completos.
+· Un bloque es un elemento 3d estático. Puede contener subbloques.
+· Los bloques deben tener formato OBJ.
+· Un diseño es uno o más bloques. Puede contener animaciones, máquinas de estado y scripts. Puede contener subdiseños. Puede contener colisionadores.
+· Los diseños deben tener el formato TSCN.
+· Los bloques tienen un Vector3 en tamaño y otro para la localización. Se componen de 3 dígitos igual o mayores a 0.4 o igual o menores a menos 0.4.
+· Las rotaciones son con grados. Dividir entre 15 debe resultar en entero.
+· Hay dos tipos de colisionadores. Efecto y barrera. El primero es un activador de interacciones. El segundo impide el paso. Se deben unir a bloques. Tienen Vector3 propio en tamaño, localización y rotación con la misma normativa. Las animaciones pueden afectar a los colisionadores.
+· Las mallas deben ser low poly.
+
+PROXIMOS PASOS 12 MARZO 2020
+
+· Escribir en TXT el plan de empresa.
+· Recopilar recursos visuales para la version 1 del plan de empresa.
+    - Paleta de colores.
+        + Título (Dominante)
+        + Cita (Subdominante)
+        + Texto (Agradable)
+        + Fondo (Desapercibido)
+    - Ilustraciones.
+        + Logos tecnologías.
+        + Iconografía juego rol.
+        + Elementos sociales simplificados. Personas, gamepad, teclado, ratón etc.
+        + Elementos que evoquen la ordenación. Libros, listas, pizarra, bolígrafo etc.
+        + Bloques de la plataforma Radge. Ejemplos de diseños.
+        + Imágenes de Assets Forge, Godot, Blender, PHPStorm, PyCharm, DataGrid, itch, etc.
+· Recopilar información y comparativa de licencias open source. Resaltar las que sí servirían.
+· Hacer el documento en Illustrator.
+· Comprar papel de colores diferentes.
+· Imprimir 5 copias.
+· Ir a la copistería. Imprimir portadas en alto gramaje y encuadernar todo.
