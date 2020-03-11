@@ -1,0 +1,7 @@
+Creative Commons Atribución 4.0 Internacional.	
+Eres libre:
+de compartir – de copiar, distribuir y transmitir el trabajo
+de remezclar – de adaptar el trabajo
+Bajo las siguientes condiciones:
+atribución – Debes otorgar el crédito correspondiente, proporcionar un enlace a la licencia e indicar si realizaste algún cambio. Puedes hacerlo de cualquier manera razonable pero no de manera que sugiera que el licenciante te respalda a ti o al uso que hagas del trabajo.
+Autor: Evan You, https://github.com/yyx990803

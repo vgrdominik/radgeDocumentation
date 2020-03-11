@@ -1,0 +1,2 @@
+Dominio público
+Autor: Autores de node.js (https://nodejs.org/about/resources/)

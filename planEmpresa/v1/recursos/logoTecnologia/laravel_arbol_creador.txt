@@ -1,0 +1,10 @@
+Este archivo está disponible bajo la licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional.	
+Eres libre:
+de compartir – de copiar, distribuir y transmitir el trabajo
+de remezclar – de adaptar el trabajo
+Bajo las siguientes condiciones:
+atribución – Debes otorgar el crédito correspondiente, proporcionar un enlace a la licencia e indicar si realizaste algún cambio. Puedes hacerlo de cualquier manera razonable pero no de manera que sugiera que el licenciante te respalda a ti o al uso que hagas del trabajo.
+compartir similar – En caso de mezclar, transformar o modificar este trabajo, deberás distribuir el trabajo resultante bajo la misma licencia o una compatible como el original.
+Autor: Laravel
+laravel.com
+Fuente: https://es.m.wikipedia.org/wiki/Archivo:Laravel.svg
