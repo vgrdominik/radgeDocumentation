@@ -15,6 +15,7 @@ PLATAFORMA PARA CREAR COMUNIDADES GAMIFICADAS
 
 PRESENTACION
 
+Hay gamificación en la presentación. Se presenta un resumen de la misma.
 -------------------         -------------------
 | #1             0|         | #12           11|
 |                 |         |                 |
@@ -29,7 +30,7 @@ PRESENTACION
               -------------------
               -------------------
               | Deja 5€ y un  13|
-              | papel von el Nº |
+              | papel con el Nº |
               | y tu papeleteta |
               | los ganadores se|
               | reparten el     |
@@ -43,7 +44,7 @@ Respuestas correctas:
 El juego pretende dejar huella en ti. Eso vale mucho más que los 5€.
 
 Gracias,
-Valentí.
+Ryu.
 
 RESUMEN DE CUENTAS
 
@@ -304,7 +305,7 @@ RADGE SCREEN
     - Hasta 50% inversores (Hasta 25% fase 1, hasta 25% fase 2)
     - Hasta 30% colaboradores, patrocinadores y mecenas.
     - 10% Ryu. →  + porcentaje restante dividido entre 2.
-    - 10$ Noah.⭷
+    - 10% Noah.⭷
 · En cada bloque se generan Y unidades de Zen, es constante.
 · En el bloque Z se introducen X unidades de Zen con la misma distribución que el bloque número uno. Se termina la temporada 1. Inicia la temporada número 2. El Zen ya será constante.
 · Multijugador local de 6 usuarios por instancia. Radge Screen se puede abrir múltiples veces.
@@ -414,7 +415,7 @@ VALOR AÑADIDO
 · Las herramientas son independientes del resto y se busca la máxima compatibilidad sin por ello renunciar a prácticas de usabilidad.
 · El contenido generado por Ryu es de dominio público desde el bloque 1.
 + Cubre necesidades de millones de personas perfectamente segmentadas y localizables por medios interactivos viables.
-+ los costes de interacción se pueden cubrir materialmente o participando de forma equitativa.
++ Los costes de interacción se pueden cubrir materialmente o participando de forma equitativa.
 + Se inicia la actividad completamente en un idioma bastante desatendido sectorialmente. Con la posibilidad de traducción completa a otras lenguas, como Japonés.
 + Posibilidad de fidelización recurrente con ROI bueno. Cuantificable y medible. Aportaciones viables para microPYMES, PYMES y grandes empresas.
 - Multiplataforma y multigénero.
@@ -627,7 +628,6 @@ PROXIMOS PASOS 12 MARZO 2020
         + Bloques de la plataforma Radge. Ejemplos de diseños.
         + Imágenes de Assets Forge, Godot, Blender, PHPStorm, PyCharm, DataGrid, itch, etc.
 · Recopilar información y comparativa de licencias open source. Resaltar las que sí servirían.
-· Hacer el documento en Illustrator.
-· Comprar papel de colores diferentes.
+· Hacer el documento en InDesign.
 · Imprimir 5 copias.
 · Ir a la copistería. Imprimir portadas en alto gramaje y encuadernar todo.
