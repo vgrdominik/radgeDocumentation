@@ -1,0 +1,5 @@
+Se han realizado algunos cambios en el layout del frontal de Radge.
+https://github.com/vgrdominik/radgeFrontend/commit/dc4c6d8bd84308e3e2ba2ca838df0e107bddae4a
+
+Se ha hecho la base de la blockchain de Radge.
+https://github.com/vgrdominik/radgeApi/commit/42d1d9b514bf90b1592e2cda6321728dde7be9e4
